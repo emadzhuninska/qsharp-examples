@@ -3,32 +3,17 @@
 A collection of quantum computing examples written in Q# (Q-Sharp), Microsoft's quantum programming language. This repository demonstrates various quantum algorithms, concepts, and programming patterns to help developers learn quantum computing with Q#.
 ## Table of Contents
 
-    Getting Started
-    Prerequisites
-    Examples
-    Resources
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Resources](#resources)
 
 ##  Getting Started
 
 To run these examples, you'll need the Azure Quantum Development Kit installed on your system. The examples are designed to demonstrate fundamental quantum computing concepts.
 
 ## Prerequisites
-
-    Azure Quantum Development Kit
-    Visual Studio Code with the Q# extension (recommended)
-
-
-##  Examples
-Bell States
-
-File: bell-states.qs
-
-Demonstrates the creation and measurement of Bell states (maximally entangled two-qubit states). This example shows:
-
-    Creating quantum entanglement between two qubits
-    The four classical Bell states
-    Quantum measurement and probability distributions
-
+- [Azure Quantum Development Kit](https://docs.microsoft.com/en-us/azure/quantum/install-overview-qdk)
+- [Visual Studio Code](https://code.visualstudio.com/) with the Q# extension (recommended)
 
 ## Resources
 ### Official Documentation

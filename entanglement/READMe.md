@@ -30,14 +30,3 @@ Runs multiple trials to demonstrate correlation:
 **Single measurement:** Both qubits always measure the same (both 0 or both 1)
 
 **Demo:** 10 trials showing perfect correlation, roughly 50/50 split between (0,0) and (1,1) outcomes
-
-## Key Quantum Concepts
-
-- **Superposition:** Qubit exists in multiple states simultaneously
-- **Entanglement:** Qubits become correlated across any distance
-- **Bell States:** Fundamental entangled states used in quantum protocols
-- **Measurement:** Collapses superposition to definite state
-
-## Applications
-
-Entanglement enables quantum cryptography, teleportation, and forms the basis for quantum computing advantages.

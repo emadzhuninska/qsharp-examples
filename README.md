@@ -1,6 +1,6 @@
 # Q# Examples
 
-A collection of quantum computing examples written in Q# (Q-Sharp), Microsoft's quantum programming language. This repository demonstrates various quantum algorithms, concepts, and programming patterns to help developers learn quantum computing with Q#.
+A collection of quantum computing examples written in Q#, Microsoft's quantum programming language.
 ## Table of Contents
 
 - [Getting Started](#getting-started)
